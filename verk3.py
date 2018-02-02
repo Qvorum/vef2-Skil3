@@ -23,4 +23,7 @@ def lidurA():
 @route('/lidurA/<kt>')
 def lidurA(kt):
     return template('kennit.tpl',title = "Kennitala", kt=kt)
+@route('/img/<skra>')
+def static_skrar(skra):
+    return static_file(skra, root='img')
 run(host='0.0.0.0', port=os.environ.get('PORT'))
