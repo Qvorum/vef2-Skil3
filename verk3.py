@@ -23,4 +23,4 @@ def lidurA():
 @route('/lidurA/<kt>')
 def lidurA(kt):
     return template('kennit.tpl',title = "Kennitala", kt=kt)
-run()
+run(host='0.0.0.0', port=os.environ.get('PORT'))
