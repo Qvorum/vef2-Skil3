@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <link rel="style" href="gaman.CSS">
+    <link rel="style" href="/staticfile/gaman.CSS">
     <title>{{title}}</title>
   </head>
   <body>
