@@ -3,8 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>{{title}}</title>
-    <link rel="style" href="/staticfile/gaman.CSS">
-    <link rel="style" href="gaman.CSS">
+    <link type="text/css" href="gaman.CSS" rel="/img/gaman.css">
   </head>
   <body>
     <marquee scrollamount="30" direction="alternate" onbounce="alternate"><h1>𝔔𝔙𝔒ℜ𝔘𝔐 𝔑𝔈𝔚𝔖 𝔑𝔈𝔗𝔚𝔒ℜ𝔎</h1></marquee>
