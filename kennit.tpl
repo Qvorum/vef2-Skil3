@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>{{title}}</title>
-    <link rel="style" href="/staticfile/gaman.CSS">
+    <link type="text/css" href="gaman.CSS" rel="/img/gaman.css">
   </head>
   <body>
       %samlagning = 0
