@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <link rel="style" href="gaman.CSS">
     <title>{{title}}</title>
   </head>
   <body>
