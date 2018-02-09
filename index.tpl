@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>{{title}}</title>
+    <link rel="style" href="/staticfile/gaman.CSS">
     <link rel="style" href="gaman.CSS">
   </head>
   <body>
